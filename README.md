@@ -39,7 +39,7 @@ Particle tracers follow magnetic field lines with correct rotational transform *
 
 ### 1 · Clone & install
 ```bash
-git clone https://github.com/SiddharthMaverick/tokamak-piml.git
+git clone https://github.com/SiddharthMaverick/Tokamak-Fusion-Simulation.git
 cd tokamak-piml
 python -m venv .venv
 source .venv/bin/activate        # Windows: .venv\Scripts\activate
