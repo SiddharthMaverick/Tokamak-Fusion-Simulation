@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/YOUR_USERNAME/tokamak-piml/actions"><img src="https://github.com/YOUR_USERNAME/tokamak-piml/workflows/CI/badge.svg" alt="CI"/></a>
+  <a href="https://github.com/SiddharthMaverick/tokamak-piml/actions"><img src="https://github.com/SiddharthMaverick/tokamak-piml/workflows/CI/badge.svg" alt="CI"/></a>
   <img src="https://img.shields.io/badge/python-3.10%20|%203.11%20|%203.12-blue" alt="Python"/>
   <img src="https://img.shields.io/badge/Three.js-r128-orange" alt="Three.js"/>
   <img src="https://img.shields.io/badge/Gradio-4%2B-ff7c00" alt="Gradio"/>
