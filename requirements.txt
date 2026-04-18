@@ -1,0 +1,6 @@
+# ── Runtime dependencies ──────────────────────────────────────────────
+gradio>=4.0.0
+# Three.js is loaded from CDN — no npm/Node required
+
+# ── Development / testing ─────────────────────────────────────────────
+pytest>=7.0
